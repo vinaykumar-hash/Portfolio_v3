@@ -340,13 +340,13 @@ function Brands() {
       name: "Hack To Future 3.0",
       city: "Mangaluru",
       tag: "Winner",
-      image: "https://media.licdn.com/dms/image/v2/D5622AQHZfqD5b0WVAQ/feedshare-shrink_800/B56ZYmIJQjHoAg-/0/1744396392401?e=1781740800&v=beta&t=Qo9_x5TkaIeIWiUxe7_EANHauNHJGvAUzC53gHo0aBU",
+      image: "https://ogcemddocujgszusyyfy.supabase.co/storage/v1/object/public/Extra/h1.jpeg",
     },
     {
       name: "I-Solve",
       city: "Bengaluru",
       tag: "Winner",
-      image: "https://media.licdn.com/dms/image/v2/D5622AQF2kt437ADBJQ/feedshare-shrink_800/feedshare-shrink_800/0/1729417755433?e=1781740800&v=beta&t=gccz11ub2JUW-oZ45I5gZ3udaZaPk6NcFpWoxZQkBPU",
+      image: "https://ogcemddocujgszusyyfy.supabase.co/storage/v1/object/public/Extra/h2.jpeg",
     },
   ];
   return (
