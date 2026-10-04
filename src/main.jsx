@@ -465,7 +465,7 @@ function AboutMore() {
         data-reveal
       >
         <div className="metric-content">
-          <Counter target={300} suffix="+" />
+          <Counter target={600} suffix="+" />
           <span>LeetCode Problems Solved</span>
           {/* <p>Still Grinding</p> */}
         </div>
